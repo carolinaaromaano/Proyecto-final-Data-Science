@@ -23,7 +23,6 @@ La aplicación realiza predicciones basadas en las siguientes variables:
 - **data**: Archivos de datos para la construcción del modelo de Machine Learning (CSV limpio y preprocesado).
 - **README.md**: Archivo de descripción del proyecto (este archivo).
 - **app**:
-  - **models**: Contiene el modelo Random Forest entrenado para la predicción de precios.
   - **app.py**: Código de la aplicación en Gradio para realizar predicciones.
   - **Dockerfile**: Archivo Docker para ejecutar la app en un contenedor.
   - **requirements.txt**: Dependencias necesarias para ejecutar el proyecto.
