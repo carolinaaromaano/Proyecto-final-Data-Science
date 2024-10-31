@@ -19,7 +19,7 @@ La aplicación realiza predicciones basadas en las siguientes variables:
 
 ### Contenido del Proyecto
 
-- **notebooks**: Contiene los Jupyter Notebooks usados para la exploración y entrenamiento del modelo.
+- **notebooks**: Contiene los Notebooks usados para la exploración y entrenamiento del modelo.
 - **data**: Archivos de datos para la construcción del modelo de Machine Learning (CSV limpio y preprocesado).
 - **README.md**: Archivo de descripción del proyecto (este archivo).
 - **app**:
